@@ -1,0 +1,8 @@
+body{
+	background-color:beige;
+}
+article, p{background-color: white;}
+.btn-warning{width:100%;}
+.well a{
+	background-color: lightgrey;
+}
